@@ -12,7 +12,7 @@ A smart web-based tool that helps **farmers and gardeners** detect potato leaf d
 ---
 
 ## 📸 Demo Preview  
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Potato+Disease+Advisor+Demo)  
+![App Screenshot](/Screenshot 2025-09-10 200330.png)  
 *(Replace with your actual screenshot once available)*  
 
 ---
