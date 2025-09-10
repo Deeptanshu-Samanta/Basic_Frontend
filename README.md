@@ -12,8 +12,7 @@ A smart web-based tool that helps **farmers and gardeners** detect potato leaf d
 ---
 
 ## 📸 Demo Preview  
-![App Screenshot](https://github.com/Deeptanshu-Samanta/Basic_Frontend/blob/14947e046a94908bb93397852c215f402b1407a7/Screenshot%202025-09-10%20200330.png)  
-*(Replace with your actual screenshot once available)*  
+![App Screenshot](https://github.com/Deeptanshu-Samanta/Basic_Frontend/blob/14947e046a94908bb93397852c215f402b1407a7/Screenshot%202025-09-10%20200330.png)   
 
 ---
 
